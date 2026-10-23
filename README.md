@@ -25,7 +25,7 @@ The following cases have been documented for review, root cause analysis (RCA), 
 
 
 
-*   **[Case #720491: Emergency Patching Failure (Cross-OS Dependency Conflicts) (Open)](./2026cases/720491-Patch-Failure-across-Global-Fleet-during-Critical-RCE-Remediation.md)**
+*   **[Case #720491: Emergency Patching Failure (Cross-OS Dependency Conflicts) (Open)](./2026-cases/720491-Patch-Failure-across-Global-Fleet-during-Critical-RCE-Remediation.md)**
 
 *   **[Case #721105: Checkout Platform Outage (Undocumented Configuration Drift) (Closed)](./2026-Cases/721105-Intermittent-Checkout-Service-Failures-Out-of-Band-Configuration-Drift.md)**
 
